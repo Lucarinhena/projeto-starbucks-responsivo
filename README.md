@@ -5,3 +5,4 @@ Pequeno projeto para aplicação de conhecimento e estudos aprendidos, com final
 - Aplicação de CSS para estilização 
 - HTML
 - Aberto para modificações 
+- 100% responsivo para tablets e celulares
