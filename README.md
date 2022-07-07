@@ -1,2 +1,7 @@
 # projeto-starbucks-responsivo
-Desenvolvido para estudos utilizando HTML, CSS. 
+Pequeno projeto para aplicação de conhecimento e estudos aprendidos, com finalidade de desenvolimento pessoal
+
+- Reutilização de imagens
+- Aplicação de CSS para estilização 
+- HTML
+- Aberto para modificações 
